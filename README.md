@@ -81,7 +81,7 @@ Is this safe? **YES.**
 
 If this tool helped you boost your FPS, consider staring the repo or joining our Discord!
 
-**[Join Discord Community](https://discord.gg/mXgZsmw4rV)**
+**[Join Discord Community](https://discord.gg/xZMbtNEQYP)**
 
 <br>
 
